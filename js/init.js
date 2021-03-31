@@ -6,6 +6,6 @@ firebase.initializeApp({
     projectId: "evaluacionl",
     storageBucket: "evaluacionl.appspot.com",
     messagingSenderId: "572276073128",
-    appId: "1:572276073128:web:ed5647447ca60e574bd89d",
-    measurementId: "G-2SGZ3FEV02"
+    appId: "1:572276073128:web:47279926e1628e9d4bd89d",
+    measurementId: "G-XV7LKKFG67"
 });
